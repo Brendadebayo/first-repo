@@ -1,0 +1,4 @@
+# First Github commit for practice
+
+# Write a small python script
+print("Github tutorial")
